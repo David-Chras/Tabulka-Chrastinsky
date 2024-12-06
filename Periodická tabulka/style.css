@@ -1,0 +1,59 @@
+.h1{
+    color: blue;
+    margin-left: 750px;
+}
+table{
+    margin: auto;
+    width: 60%;
+    border-collapse: collapse;
+    height: 40%;
+
+}
+td{
+    height: 2cm;
+    width: 2cm;
+    text-align: center;
+}
+.invisible{
+    border-color:  white;
+}
+.H{
+    background-color: greenyellow;
+    border: 3px solid black;
+}
+.yellow{
+    background-color: yellow;
+    border: 3px solid black;
+}
+.alkalické{
+    background-color: red;
+    border: 3px solid black;
+}
+.kovy{
+    background-color: deepskyblue;
+    border: 3px solid black;
+}
+.gold{
+    background-color: goldenrod;
+    border: 3px solid black;
+}
+.cyan{
+    background-color: cyan;
+    border: 3px solid black;
+}
+.green{
+    background-color:chartreuse;
+    border: 3px solid black;
+}
+.blue{
+    background-color:royalblue;
+    border: 3px solid black;
+}
+.přechodné{
+    background-color:plum;
+    border: 3px solid black;
+}
+.white{
+    background-color: white;
+    border: 3px solid black;
+}
