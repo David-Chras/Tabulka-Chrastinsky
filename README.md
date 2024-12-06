@@ -1,1 +1,1 @@
-# Tabulka-Chrastinsky
+# Periodická tabulka-Chrastinsky
